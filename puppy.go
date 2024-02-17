@@ -20,6 +20,10 @@ func WhenGrownUp() string {
 //	func Fromv1() string {
 //		return "From version 1"
 //	}
-func Fromv2() string {
-	return "From version 2"
+//
+//	func Fromv2() string {
+//		return "From version 2"
+//	}
+func Fromv2Major() string {
+	return "From major version 2"
 }
