@@ -17,6 +17,9 @@ func WhenGrownUp() string {
 	return dog.WhenGrownUp(Barks())
 }
 
-func Fromv1() string {
-	return "From version 1"
+//	func Fromv1() string {
+//		return "From version 1"
+//	}
+func Fromv2() string {
+	return "From version 2"
 }
